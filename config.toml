@@ -1,6 +1,6 @@
-base_url = "https://superlocrian.netlify.app"
+base_url = "/"
 title = "superlocrian"
-description = "Writings about music"
+description = "writings about music"
 compile_sass = true
 build_search_index = true
 theme = "oceanic-zen"
