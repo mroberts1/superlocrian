@@ -9,7 +9,7 @@ date = 2021-07-21
 
 >["Trem Fantasma"](https://www.youtube.com/watch?v=kDpkviXa0cw) {ghost train} is a song by Os Mutantes, from their 1968 début album.
 
-My pal [<span style="font-family:HelveticaNeueLTStd-BdEx">@rosano</span>](https://rosano.hmm.garden/), creator of [<span style="font-family:HelveticaNeueLTStd-BdEx">Hyperdraft</span>](https://rosano.hmm.garden/01etj3kw7w4zyz1f5ktnnagn7n) and fellow member of the wonderful [Merveilles](https://merveilles.town/web/timelines/home) coding community, recently asked me how I found my way into Brazilian music. As I thought about the question, I realized that the answer was longer than he was probably expecting. For what it's worth, here it is.
+My pal [<span style="font-family:HelveticaNeueLTStd-BdEx">@rosano</span>](https://rosano.hmm.garden/), creator of [<span style="font-family:HelveticaNeueLTStd-BdEx">Hyperdraft</span>](https://rosano.hmm.garden/01etj3kw7w4zyz1f5ktnnagn7n) and fellow member of the wonderful [<span style="font-family:HelveticaNeueLTStd-BdEx">Merveilles</span>](https://merveilles.town/web/timelines/home) coding community, recently asked me how I found my way into Brazilian music. As I thought about the question, I realized that the answer was longer than he was probably expecting. For what it's worth, here it is.
 
 ### I: College Radio
 
