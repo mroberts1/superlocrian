@@ -1,0 +1,51 @@
++++
+title = "Trem Fantasma"
+date = 2021-07-21
++++
+
+### Ghosts of Brazilian music
+
+<iframe width="500" height="280" src="https://www.youtube.com/embed/kDpkviXa0cw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+>["Trem Fantasma"](https://www.youtube.com/watch?v=kDpkviXa0cw) {ghost train} is a song by Os Mutantes, from their 1968 début album.
+
+My pal [@rosano](https://rosano.hmm.garden/), creator of [Hyperdraft](https://rosano.hmm.garden/01etj3kw7w4zyz1f5ktnnagn7n) and fellow member of the wonderful [Merveilles](https://merveilles.town/web/timelines/home) coding community, recently asked me how I found my way into Brazilian music. As I thought about the question, I realized that the answer was longer than he was probably expecting. For what it's worth, here it is.
+
+### I: College Radio
+
+I discovered Brazilian music several decades ago, after relocating to Boston from the UK where I grew up. Boston has a pretty sizeable Brazilian community, and WERS, the radio station at Emerson College (where I now teach) had a show called "Coraçao Brasileira" that introduced me to all of the major styles and artists since the 1960s: samba and bossa nova, of course, but also *forró*, *choro*, Tropicália, and the 1970s MPB (Música Popular Brasileira) movement. "Coraçao Brasileira" introduced me both to the classics (Tom Jobim, João Gilberto, Nara Leão, Edu Lobo, Elis Regina) and artists like Gal Costa, Maria Bethânia, Joyce, Jorge Ben, Ivan Lins, Djavan, and Simone, as well as rising stars like Marisa Monte and Leila Pinheiro.
+
+I would tape "Coraçao Brasileira" every week (this was still towards the end of the audiocassette era) and started accumulating albums by Milton Nascimento, Ivan Lins, and Tom Jobim from the world music section of the giant Tower Records store on Newberry Street. Two albums had a big impact on me: the first compilation in the *Belleza Tropical* series put out by David Byrne's new Luaka Bop world music label; and on the new digital format of CD,  [*Brasileiro*](http://thebraziliansound.blogspot.com/2014/08/sergio-mendes-talks-about-brasileiro.html?utm_source=pocket_mylist) (1992), Latin-Jazz legend Sergio Mendes's collaboration with hip-hop musicians like Carlinhos Brown that relaunched his popularity in the U.S. 
+
+Another show I listened to avidly every Monday night was "Things That Go Bump In The Night," a free-form jazz show on Tufts radio. I liked the show so much that I became friends with the guy who did it, Steven Cantor. Steve was a friend of Lyle Mays, the keyboardist of the Pat Metheny group, and co-produced Lyle's first two albums with him. Through him, I heard that Pat had an apartment in Rio and was often down there recording; his records of the time, such as *Still Life Talking* (1987), showcased Brazilian vocalists and percussionists. Steve became a musical mentor for me, and through his show I discovered Milton Nascimento and Lô Borges's Clube da Esquina records, the extraordinary jazz musician Hermeto Pascoal, and Egberto Gismonti.
+
+Brazilian music was not hard to find in Boston back then. The place where I was living in Cambridge was within walking distance of the jazz club Ryles on Inman Square, where Spanish singer Olga Román performed weekly sets of bossa and MPB standards with her French band. I saw Pat Metheny there at an unannounced "secret" show with Dave Holland and Japanese trumpeter Tiger Okoshi; Lyle Mays sat in at one of Olga Román's sets. Brazilian artists regularly came through on tours, and I was lucky enough to see shows by Djavan, Milton Nascimento, and Hermeto Pascoal.
+
+All of which is to say that by the time I finally had chance to go to Brazil, to attend a conference in the northeastern city of Maceió (home of Djavan), I was already pretty familiar with Brazilian music. I spent a couple of blissful days in Rio, having lunch on the cafe terrace where Tom Jobim was reportedly inspired to write "The Girl From Ipanema," and catching a live set by Margareth Menezes. The flight up to Maceió included a brief stop in Salvador de Bahia, the epicenter of Afro-Brazilian music, and I still regret not getting off the plane there and then. Needless to say, I returned to Boston with a slew of records by my favorite artists as well as new discoveries like Adriana Calcanhoto and rock band Titãs.
+
+### II. Future Listening
+
+By the time I moved to New York in the late 1990s, Brazilian music was already the cornerstone of the thriving club jazz and lounge music scenes, much of it filtered through Japanese DJs and artists. Towa Tei's album *Future Listening!* (1994) featured Bebel Gilberto, daughter of Jõao Gilberto and niece of Chico Buarque, and a bossa sung by Pizzicato Five's Maki Nomiya. Bebel Gilberto's club-oriented album *Tanto Tempo* (2000) was an instant classic that seemed to be playing in every bar and club; of course I saw her perform it live. I also came across Arto Lindsay, an experimental guitarist and producer who was involved in the No Wave independent rock scene. He'd grown up in Brazil and recorded in Portuguese on albums such as the exquisite *O Corpo Sutil* (1996).
+
+One of the highlights of my time in New York was a show by Sergio Mendes at the Blue Note, attended by a strange generational mix of old-school fans of his Brazil '66 band, 90s fans of *Brasileiro*, and young Japanese hipsters. Another was the all-too-brief collaboration between Miho Hatori of the hip-hop duo Cibo Matto and Beck guitarist Smokey Hormel at John Zorn's club Tonic, in which they performed Baden Powell and Vinicius de Moraes's classic album *Os Afro-Sambas* (1966). It left me with a love of [Baden Powell](https://www.youtube.com/watch?v=KdXQU8j3GqM) that has continued to this day. Perhaps the most memorable of all, though, was the sublime performance by Ryuichi Sakamoto with Jacques and Paula Morelenbaum of Tom Jobim's songbook, *Casa* (2001).
+
+Over the next decade I began making regular trips to Tokyo and became increasingly immersed in the Japanese bossa nova scene - Lisa Ono, its reigning queen, whose club Saci Pererê we visited one New Year's Eve when I unfortunately was sick with flu; and duos like Naomi & Goro and Arthur & Sabrina. We finally caught up with Lisa Ono at Tokyo's swanky Blue Note, one of the most expensive shows I've ever seen (in Japan, jazz is a luxury item). One of my favorite stores when we lived in Tokyo for six months in 2012 was Mermelada, which specialized in Brazilian percussion instruments. I went there looking for a *cuica*, but was eventually persuaded to start with something easier, and bought a [*pandeiro*](https://assets.merveilles.town/media_attachments/files/106/615/062/379/880/375/original/99ced76ce489b1fe.jpeg) instead. 
+
+### III: Tropicália
+
+I eventually made my way back from Tokyo to Rio by returning to some artists and movements that I'd never properly explored at the beginning: the Tropicália movement spearheaded by Caetano Veloso and Gilberto Gil, who were prominent critics of the Brazilian dictatorship before being forced into exile in London; and the band Os Mutantes. In recent years I've become fascinated by the band's weird fusion of Brazilian folk, *Sergeant Pepper*-era Beatles songs, and psychedelic rock, most in evidence on their self-titled début album, *Os Mutantes* (1968). One of the many interesting things about Tropicália as an artistic and political movement is that music was only one of its components, which also included film (such as Glauber Rocha's influential film *Terra em Transe* (1967), theater, and literature.
+
+### IV: Aquarela do Brasil
+
+I don't listen to as much Brazilian music these days as I used to, and am not very well up on the latest artists. While internationally most people still associate it with samba and bossa nova, Brazilian music is an incredibly diverse field, having evolved its own localized versions of just about every style of global popular music, from reggae to hip-hop to metal.
+
+I'll listen to anything from [Far Out Recordings](https://www.faroutrecordings.com/), [Joe Davis](https://metroasheville.wordpress.com/2009/10/23/farout-records-joe-davis/)'s label in the UK that has been reissuing long-lost recordings by artists like jazz fusion band [Azymuth](https://www.faroutrecordings.com/products/azymuth-pure?_pos=6&_sid=383caed37&_ss=r). In recent years I've mainly been listening to old recordings by Joyce or Hermeto Pascoal, including his collaboration with the brilliant vocalist [Aline Morena](https://www.youtube.com/watch?v=vFRROfqfMp8). More recent bands that I'd recommend are Apollo Nove and Democustico. Every now and again, I come across something that stops me in my tracks. Alice Caymmi's first album was one such record. In Brazil, music runs in lineages: Bebel Gilberto is João Gilberto's daughter; Clara Moreno is Joyce's daughter, Alice Caymmi is the granddaughter of one of the founders of bossa nova, Dorival Caymmi.
+
+I hope that one day I'll get a chance to go back to Brazil. In the meantime, I can at least enjoy a film that remains one of my all-time favorites: *Black Orpheus* (1959), a retelling of the Greek myth of Orpheus and Eurydice in the contemporary setting of a Rio *favela*. The image of the children  ecstatically dancing to Ary Barroso's classic "Aquarela do Brasil" in the final sequence is in my view one of the most beautiful in all of cinema. Interestingly, and as so often with Brazilian music and culture, its international impact was mediated by an outsider: the film's director, Marcel Camus, was French. I'll have more to say at some point about Brazil's French connection, notably the collaboration between Pierre Barouh and Baden Powell in the documentary *Saravah* (1970). I also haven't even said anything about why I like Brazilian music, and the endlessly-discussed concept of *saudade*. But that will have to wait for another time.
+
+***
+
+✱✱ Written with [Hyperdraft](https://rosano.hmm.garden/01etj3kw7w4zyz1f5ktnnagn7n), hosted by [Garden](https://hmm.garden/). [Other gardeners](https://rosano.hmm.garden/01f04ph0mzahzyyd2grqa7nh9c)
+
+***
+

@@ -10,6 +10,7 @@ theme = "oceanic-zen"
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
 highlight_theme = "visual-studio-dark"
+smart_punctuation = true
 
 [extra]
 author = "Martin Roberts"
