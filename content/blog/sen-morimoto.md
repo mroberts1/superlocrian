@@ -30,7 +30,7 @@ Beats are the bedrock of any popular music today, and Sen knows how to make beat
 
 Sidenote: this video shows that Sen also knows how to write a great ballad.
 
-Kaina has an album of her own on Sooper, [<span style="font-family:HelveticaNeueLTStd-BdEx">_Next To The Sun_</span>](https://kainamusic.bandcamp.com/album/next-to-the-sun) (2019), and is releasing her second album, [<span style="font-family:HelveticaNeueLTStd-BdEx">_It Was A Home_</span>](https://kainamusic.bandcamp.com/album/it-was-a-home), at the end of this month.
+Kaina has an album of her own on Sooper, [<span style="font-family:HelveticaNeueLTStd-BdEx">_Next To The Sun_</span>](https://kainamusic.bandcamp.com/album/next-to-the-sun) (2019), and is releasing her second album, [<span style="font-family:HelveticaNeueLTStd-BdEx">_It Was A Home_</span>](https://kainamusic.bandcamp.com/album/it-was-a-home), on 4 March 2022.
 
 <p><iframe width="500" height="280" src="https://www.youtube.com/embed/nrlQRt-CgaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
