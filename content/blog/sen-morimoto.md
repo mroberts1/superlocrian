@@ -24,13 +24,15 @@ Beats are the bedrock of any popular music today, and Sen knows how to make beat
 
 ### He works with Kaina
 
-[Kaina](https://kainamusic.bandcamp.com/) is just flat-out awesome. Yes, I know that there are a lot of great female vocalists out there - I’ve been a fan of Yukimi Nagano of Swedish band [Little Dragon](http://little-dragon.net/) for years - but Kaina’s vocals in the video of “Picture of a Painting” give me goosebumps. Oh and speaking of goosebumps:
+[Kaina](https://www.kaina.live/) is just flat-out awesome. Yes, I know that there are a lot of great female vocalists out there - I’ve been a fan of Yukimi Nagano of Swedish band [Little Dragon](http://little-dragon.net/) for years - but Kaina’s vocals in the video of “Picture of a Painting” give me goosebumps. Oh and speaking of goosebumps:
 
 <p><iframe width="500" height="280" src="https://www.youtube.com/embed/66wKTr9NPqY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 Sidenote: this video shows that Sen also knows how to write a great ballad.
 
 Kaina has an album of her own on Sooper, [_Next to the Sun_](https://kainamusic.bandcamp.com/album/next-to-the-sun) (2019), and is releasing her second album, [_It Was A Home_](https://kainamusic.bandcamp.com/album/it-was-a-home), at the end of this month.
+
+<p><iframe width="500" height="280" src="https://www.youtube.com/embed/nrlQRt-CgaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 ### The Rhodes
 
