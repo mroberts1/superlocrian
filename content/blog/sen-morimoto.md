@@ -6,13 +6,13 @@ date = 2022-02-25
 
 I’ve been a fan of Sen Morimoto since I first saw him opening the 88rising show in Boston in 2018. Other than a few black guys, I was what seemed like the only non-Asian in the entire theater. At the start of the show some lanky Japanese-American kid with a ponytail comes out with a boombox and a saxophone and does some numbers of him rapping and playing over beats and samples from the box. He was well received, but everybody was there for the 88rising stars like Chinese hip-hop crew Higher Bros., Japanese-American crooner Joji, and Indonesian rap legend Rich Brian. Not long after, people were dancing in the aisles to the other acts and holding up their collective iPhone flashlights the way people used to do with cigarette lighters when Led Zeppelin played “Stairway to Heaven” several decades before they were born.
 
-I was too swept up in the rest of the show to think much about Sen at the time, but over the following year I started coming across his music videos on YouTube and eventually found my way over to his debut album [_Cannonball!_](https://morimotosen.bandcamp.com/album/cannonball-3) on Bandcamp.
+I was too swept up in the rest of the show to think much about Sen at the time, but over the following year I started coming across his music videos on YouTube and eventually found my way over to his debut album [<span style="font-family:HelveticaNeueLTStd-BdEx">_Cannonball!_</span>](https://morimotosen.bandcamp.com/album/cannonball-3) on Bandcamp.
 
 Not many people seem to know about Sen and compared to the other 88rising artists I don’t think he’s gotten anything like the kind of recognition that he deserves. I'm not going to review his albums here - I just recommend that you head over to Bandcamp and check them out yourself. But if you’re not familiar with his music, here are a few thoughts on what I like about Sen’s music, and why you should too.
 
 ### Chicago
 
-Although he grew up in Massachusetts, Sen is based in Chicago and is a key part of the city’s vibrant and eclectic music scene, which includes bands like [Tortoise](http://www.trts.com/). Along with a couple of other local artists, he’s co-founder of the local indie label [Sooper Records](https://www.sooperrecords.com/), which has also released both of his own albums to date, the aforementioned [_Cannonball!_](https://morimotosen.bandcamp.com/album/cannonball-3) (2018) and the self-titled [_Sen Morimoto_](https://morimotosen.bandcamp.com/album/sen-morimoto) (2020). I don’t know a lot about that scene other than what I’ve gleaned from a few of Sen’s interviews, but my sense is that Chicago’s music scenes also tend to be neglected compared to all the attention given to other U.S. music cities, including nearby Detroit, New York, Los Angeles, Austin, and Nashville. But this isn’t an intro to Chicago’s music scenes - back to what I like about Sen’s music.
+Although he grew up in Massachusetts, Sen is based in Chicago and is a key part of the city’s vibrant and eclectic music scene, which includes bands like [<span style="font-family:HelveticaNeueLTStd-BdEx">Tortoise</span>](http://www.trts.com/). Along with a couple of other local artists, he’s co-founder of the local indie label [<span style="font-family:HelveticaNeueLTStd-BdEx">Sooper Records</span>](https://www.sooperrecords.com/), which has also released both of his own albums to date, the aforementioned [<span style="font-family:HelveticaNeueLTStd-BdEx">_Cannonball!_</span>](https://morimotosen.bandcamp.com/album/cannonball-3) (2018) and the self-titled [<span style="font-family:HelveticaNeueLTStd-BdEx">_Sen Morimoto_</span>](https://morimotosen.bandcamp.com/album/sen-morimoto) (2020). I don’t know a lot about that scene other than what I’ve gleaned from a few of Sen’s interviews, but my sense is that Chicago’s music scenes also tend to be neglected compared to all the attention given to other U.S. music cities, including nearby Detroit, New York, Los Angeles, Austin, and Nashville. But this isn’t an intro to Chicago’s music scenes - back to what I like about Sen’s music.
 
 ### His flow
 
@@ -24,13 +24,13 @@ Beats are the bedrock of any popular music today, and Sen knows how to make beat
 
 ### He works with Kaina
 
-[Kaina](https://www.kaina.live/) is just flat-out awesome. Yes, I know that there are a lot of great female vocalists out there - I’ve been a fan of Yukimi Nagano of Swedish band [Little Dragon](http://little-dragon.net/) for years - but Kaina’s vocals in the video of “Picture of a Painting” give me goosebumps. Oh and speaking of goosebumps:
+[<span style="font-family:HelveticaNeueLTStd-BdEx">Kaina</span>](https://www.kaina.live/) is just flat-out awesome. Yes, I know that there are a lot of great female vocalists out there - I’ve been a fan of Yukimi Nagano of Swedish band [<span style="font-family:HelveticaNeueLTStd-BdEx">Little Dragon</span>](http://little-dragon.net/) for years - but Kaina’s vocals in the video of “Picture of a Painting” give me goosebumps. Oh and speaking of goosebumps:
 
 <p><iframe width="500" height="280" src="https://www.youtube.com/embed/66wKTr9NPqY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 Sidenote: this video shows that Sen also knows how to write a great ballad.
 
-Kaina has an album of her own on Sooper, [_Next to the Sun_](https://kainamusic.bandcamp.com/album/next-to-the-sun) (2019), and is releasing her second album, [_It Was A Home_](https://kainamusic.bandcamp.com/album/it-was-a-home), at the end of this month.
+Kaina has an album of her own on Sooper, [<span style="font-family:HelveticaNeueLTStd-BdEx">_Next To The Sun_</span>](https://kainamusic.bandcamp.com/album/next-to-the-sun) (2019), and is releasing her second album, [<span style="font-family:HelveticaNeueLTStd-BdEx">_It Was A Home_</span>](https://kainamusic.bandcamp.com/album/it-was-a-home), at the end of this month.
 
 <p><iframe width="500" height="280" src="https://www.youtube.com/embed/nrlQRt-CgaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
