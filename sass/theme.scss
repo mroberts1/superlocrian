@@ -6,9 +6,10 @@ $font-mono:  "Iosevka", monospace;
 $padding: 8px;
 
 body {
-    font: 95% $font;
-    background: $black;
-    color: $white;
+    font: 90% $font;
+    font-weight: normal | bold;
+    background: #f5f1e8;
+    color: #000000;
 }
 
 body {
@@ -35,10 +36,10 @@ main {
 
 p {
     text-align: left;
-    color: $white;
+    color: #000000;
     line-height: 1.5em;
-    text-align: justify;
-    text-justify: inter-word;
+    /*text-align: justify;
+    text-justify: inter-word;*/
 }
 
 footer {
@@ -77,33 +78,39 @@ ul ul {
 
 a {
     font-size: none;
+    font-weight: 600;
     color: $blue;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 h1 {
     font-size: 22px;
+    text-transform: uppercase;
     font-family: "HelveticaNeueLTStd-BdEx";
     margin: 5px 0;
 }
 
 h2 {
-    font-size: 20px;
+    font-size: 22px;
+    text-transform: uppercase;
     font-family: "HelveticaNeueLTStd-BdEx";
 }
 
 h3 {
-    font-size: 18px;
+    font-size: 20px;
+    text-transform: uppercase;
     font-family: "HelveticaNeueLTStd-BdEx";
 }
 
 h4 {
     font-size: 16px;
+    text-transform: uppercase;
     font-weight: bold;
 }
 
 h5 {
     font-size: 14px;
+    text-transform: uppercase;
     font-weight: bold;
 }
 
@@ -128,7 +135,7 @@ p > code {
 }
 
 .logo {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     font-family: "HelveticaNeueLTStd-BdEx";
 }
 
