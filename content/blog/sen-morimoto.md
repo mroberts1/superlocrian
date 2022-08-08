@@ -9,15 +9,15 @@ I’ve been a fan of Sen Morimoto since I first saw him opening the 88rising sho
 
 I was too swept up in the rest of the show to think much about Sen at the time, but over the following year I started coming across his music videos on YouTube and eventually found my way over to his debut album [_Cannonball!_](https://morimotosen.bandcamp.com/album/cannonball-3) on Bandcamp.
 
-Not many people seem to know about Sen and compared to the other 88rising artists I don’t think he’s gotten anything like the kind of recognition that he deserves. I'm not going to review his albums here - I just recommend that you head over to Bandcamp and check them out yourself. But if you’re not familiar with his music, here are a few thoughts on what I like about Sen’s music, and why you should too.
+Not many people seem to know about Sen and compared to the other 88rising artists I don’t think he’s gotten anything like the kind of recognition that he deserves. I'm not going to review his albums here - I just recommend that you head over to [Bandcamp](https://morimotosen.bandcamp.com/) and check them out yourself. But if you’re not familiar with his music, here are a few thoughts on what I like about Sen’s music, and why you should too.
 
 ### Chicago
 
-Although he grew up in Massachusetts, Sen is based in Chicago and is a key part of the city’s vibrant and eclectic music scene, which includes bands like [Tortoise](http://www.trts.com/). Along with a couple of other local artists, he’s co-founder of the local indie label [Sooper Records](https://www.sooperrecords.com/), which has also released both of his own albums to date, the aforementioned [_Cannonball!_](https://morimotosen.bandcamp.com/album/cannonball-3) (2018) and the self-titled [_Sen Morimoto_](https://morimotosen.bandcamp.com/album/sen-morimoto) (2020). I don’t know a lot about that scene other than what I’ve gleaned from a few of Sen’s interviews, but my sense is that Chicago’s music scenes also tend to be neglected compared to all the attention given to other U.S. music cities, including nearby Detroit, New York, Los Angeles, Austin, and Nashville. But this isn’t an intro to Chicago’s music scenes - back to what I like about Sen’s music.
+Although he grew up in Massachusetts, Sen is based in Chicago and is a key part of the city’s vibrant and eclectic music scene, which includes bands like [Tortoise](http://www.trts.com/). Along with a couple of other local artists, he’s co-founder of the local indie label [Sooper Records](https://www.sooperrecords.com/), which has also released both of his own albums to date, the aforementioned [_Cannonball!_](https://morimotosen.bandcamp.com/album/cannonball-3) (2018) and the self-titled [_Sen Morimoto_](https://morimotosen.bandcamp.com/album/sen-morimoto) (2020). I don’t know a lot about that scene other than what I’ve gleaned from a few of Sen’s [interviews](https://www.interviewmagazine.com/music/chicago-jazz-rapper-sen-morimoto-shows-us-camera-roll), but my sense is that Chicago’s music scenes also tend to be neglected compared to all the attention given to other U.S. music cities, including nearby Detroit, New York, Los Angeles, Austin, and Nashville. But this isn’t an intro to Chicago’s music scenes - back to what I like about Sen’s music.
 
 ### His flow
 
-Watch that video posted above, or even if you already did watch it again. One of the cool things about Sen’s flow is that it always seems to lag just a little behind the beat. It’s almost imperceptible but it’s there. In contrast to the chronic overuse of quantization in electronic music production, which automatically syncs music to the beat in robotic fashion, this feels more authentic and human, a quality that’s been pointed out in discussion of other producers like J Dilla. It’s also a characteristic of jazz, which Sen grew up listening to and is one of the main components of his own distinctive mix.
+Watch that video posted above, or even if you already did watch it again. One of the cool things about Sen’s flow is that it's always just a little behind the beat. It’s almost imperceptible but it’s there. In contrast to the chronic overuse of quantization in electronic music production, which automatically syncs music to the beat in robotic fashion, this feels more authentic and human, a quality that’s been pointed out in discussion of other producers like [J Dilla](https://www.npr.org/sections/ablogsupreme/2013/02/07/171349007/why-j-dilla-may-be-jazzs-latest-great-innovator). It’s also a characteristic of jazz, which Sen grew up listening to and is one of the main components of his own distinctive mix.
 
 ### His beats
 
@@ -31,7 +31,7 @@ Beats are the bedrock of any popular music today, and Sen knows how to make beat
 
 Sidenote: this video shows that Sen also knows how to write a great ballad.
 
-Kaina has an album of her own on Sooper, [_Next To The Sun_](https://kainamusic.bandcamp.com/album/next-to-the-sun) (2019), and is releasing her second album, [_It Was A Home_](https://kainamusic.bandcamp.com/album/it-was-a-home), on 4 March 2022.
+Kaina has an album of her own on Sooper, [_Next To The Sun_](https://kainamusic.bandcamp.com/album/next-to-the-sun) (2019), and released her second album, [_It Was A Home_](https://kainamusic.bandcamp.com/album/it-was-a-home), on 4 March 2022.
 
 <p><iframe width="500" height="280" src="https://www.youtube.com/embed/nrlQRt-CgaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
