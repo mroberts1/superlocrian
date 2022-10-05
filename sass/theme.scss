@@ -1,15 +1,15 @@
 @import "colors";
 @import "fonts";
 
-$font: "Raleway", sans-serif;
-$font-mono:  monospace;
+$font: 'Helvetica Neue LT Std 43 Light Extended';
+$font-mono:  'Iosevka';
 $padding: 8px;
 
 body {
-    font: $font;
+    font-family: $font;
     font-weight: normal | bold;
-    background: #f5f1e8;
-    color: #000000;
+    background: $blue_light;
+    color: $black_light;
 }
 
 body {
@@ -36,7 +36,7 @@ main {
 
 p {
     text-align: left;
-    color: #000000;
+    color: $black_light;
     line-height: 1.5em;
     /*text-align: justify;
     text-justify: inter-word;*/
@@ -79,27 +79,29 @@ ul ul {
 a {
     font-size: none;
     font-weight: 600;
-    color: $blue;
+    color: $black_light;
     text-decoration: underline;
+    text-decoration-color: $orange;
+    text-underline-offset: 3px;
 }
 
 h1 {
     font-size: 22px;
     text-transform: uppercase;
-    font-family: "Sanchez";
+    font-family: "HelveticaNeueLTStd-BdEx";
     margin: 5px 0;
 }
 
 h2 {
     font-size: 22px;
     text-transform: uppercase;
-    font-family: "Sanchez";
+    font-family: "HelveticaNeueLTStd-BdEx";
 }
 
 h3 {
     font-size: 20px;
     text-transform: uppercase;
-    font-family: "Sanchez";
+    font-family: "HelveticaNeueLTStd-BdEx";
 }
 
 h4 {
@@ -136,7 +138,7 @@ p > code {
 
 .logo {
     font-size: 1.1rem;
-    font-family: "Sanchez";
+    font-family: "HelveticaNeueLTStd-BdEx";
 }
 
 .date {

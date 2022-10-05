@@ -1,3 +1,15 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Sanchez&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url("https://use.typekit.net/uds6lpa.css");*/
+@import url("https://cdn.jsdelivr.net/npm/charter-webfont@4/charter.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&display=swap');
+@import url("https://use.typekit.net/uds6lpa.css");
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/charter-webfont@4/charter.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Spectral&display=swap');
+
 @charset "UTF-8";
 
 /* Import ET Book styles
@@ -11,7 +23,7 @@
     font-style: normal;
     font-display: swap;
 }
-*/
+
 @font-face {
     font-family: 'Helvetica Neue LT Std 43 Light Extended';
     src: url('/fonts/Helvetica Neue LT Std 43 Light Extended.eot'), url('http://dokoissho.sdf.org/fonts/Helvetica Neue LT Std 43 Light Extended.otf'), url('/fonts/Helvetica Neue LT Std 43 Light Extended.woff') format('woff'), url('/fonts/Helvetica Neue LT Std 43 Light Extended.ttf') format('truetype'), url('/fonts/Helvetica Neue LT Std 43 Light Extended.svg') format('svg');
@@ -45,26 +57,27 @@
     font-weight: bold;
     font-style: italic;
 }
-
+*/
 /* Tufte CSS styles */
 html {
-    font-size: 15px;
+    font-size: 16px;
 }
 
 body {
-    width: 87.5%;
+    width: 50%;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 12.5%;
-    font-family: 'Helvetica Neue LT Std 43 Light Extended', sans-serif;
-    background-color: #f5f1e8;
+    padding-left: 25%;
+    font-family: 'Spectral', 'Alegreya', 'Charter', serif;
+    background-color: #f3f7ff;
     color: #000000;
+    line-height: 16px;
     max-width: 1400px;
     counter-reset: sidenote-counter;
 }
 
 /* Adds dark mode */
-@media (prefers-color-scheme: light) {
+@media (prefers-color-scheme: dark) {
     body {
         background-color: #24272a;
         color: #59c4a2;
@@ -73,21 +86,21 @@ body {
 
 h1 { 
      text-decoration:none;
-     text-transform: uppercase;
+     text-transform:uppercase;
      color:#000000;
-     font-family: 'HelveticaNeueLTStd-BdEx', sans-serif;
-     font-weight: 700;
+     font-family: 'Inter', 'Noto Sans', sans-serif;
+     font-weight: 500;
      margin-top: 1rem;
      margin-bottom: 1rem;
-     font-size: 1.8rem;
+     font-size: 2.2rem;
      line-height: 1; 
      letter-spacing: 2px;
 }
 
 h2 { 
      color:#000000;
-     font-family: 'HelveticaNeueLTStd-BdEx', sans-serif;
-     font-weight: 700;
+     font-family: 'Inter', 'Noto Sans', sans-serif;
+     font-weight: 500;
      margin-top: 1rem;
      margin-bottom: 0;
      font-size: 1.6rem;
@@ -97,8 +110,8 @@ h2 {
 h3 { 
      text-decoration:none;
      color:#000000;
-     font-family: 'HelveticaNeueLTStd-BdEx', sans-serif;
-     font-weight: 700;
+     font-family: 'Inter', 'Noto Sans', sans-serif;
+     font-weight: 500;
      font-size: 1.4rem;
      margin-top: 1rem;
      margin-bottom: 0;
@@ -108,15 +121,15 @@ h3 {
 hr {
     display: block;
     height: 1px;
-    width: 55%;
+    width: 100%;
     border: 0;
-    border-top: 1px solid #59c4a2;
+    border-top: 3px solid #d74e45;
     margin: 1em 0;
     padding: 0;
 }
 
 p.subtitle {
-    font-style: italic;
+    font-style: normal;
     margin-top: 1rem;
     margin-bottom: 1rem;
     font-size: 1.8rem;
@@ -185,12 +198,12 @@ blockquote {
 }
 
 blockquote p {
-    width: 55%;
+    width: 100%;
     margin-right: 40px;
 }
 
 blockquote footer {
-    width: 55%;
+    width: 100%;
     font-size: 1.1rem;
     text-align: right;
 }
@@ -242,27 +255,28 @@ figure.fullwidth figcaption {
     margin-right: 24%;
 }
 
-/* Links: replicate underline that clears descenders */
-a:link,
+/* Link styles */
+a:link {
+    text-decoration: underline;
+    text-decoration-color: #d74e45;
+    text-underline-offset: 3px;
+    color: #000000;
+}
+
 a:visited {
-    color: #294478;
+    text-decoration: underline;
+    text-decoration-color: #d74e45;
+    color: #000000;
 }
 
-.no-tufte-underline:link {
-    background: unset;
-    text-shadow: unset;
+a:hover {
+    text-decoration: underline;
+    color: #d74e45;
 }
 
-a:link, .tufte-underline, .hover-tufte-underline:hover {
-    text-decoration: none;
-    background: -webkit-linear-gradient(##f5f1e8, #f5f1e8), -webkit-linear-gradient(#24272a, #24272a), -webkit-linear-gradient(currentColor, currentColor);
-    background: linear-gradient(#f5f1e8, #f5f1e8), linear-gradient(#24272a, #24272a), linear-gradient(currentColor, currentColor);
-    -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-    -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-    background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-    background-repeat: no-repeat, no-repeat, repeat-x;
-    text-shadow: 0.03em 0 #24272a, -0.03em 0 #24272a, 0 0.03em #24272a, 0 -0.03em #24272a, 0.06em 0 #24272a, -0.06em 0 #24272a, 0.09em 0 #24272a, -0.09em 0 #24272a, 0.12em 0 #24272a, -0.12em 0 #24272a, 0.15em 0 #24272a, -0.15em 0 #24272a;
-    background-position: 0% 93%, 100% 93%, 0% 93%;
+a:active {
+    text-decoration: underline;
+    color: #d74e45;
 }
 
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
@@ -274,7 +288,7 @@ a:link, .tufte-underline, .hover-tufte-underline:hover {
 /* Adds dark mode */
 @media (prefers-color-scheme: dark) {
     a:link, .tufte-underline, .hover-tufte-underline:hover {
-        text-shadow: 0.03em 0 #151515, -0.03em 0 #151515, 0 0.03em #151515, 0 -0.03em #151515, 0.06em 0 #151515, -0.06em 0 #151515, 0.09em 0 #151515, -0.09em 0 #151515, 0.12em 0 #151515, -0.12em 0 #151515, 0.15em 0 #151515, -0.15em 0 #151515;
+        text-shadow: 0.03em 0 #59c4a2, -0.03em 0 #59c4a2, 0 0.03em #59c4a2, 0 -0.03em #59c4a2, 0.06em 0 #59c4a2, -0.06em 0 #59c4a2, 0.09em 0 #59c4a2, -0.09em 0 #59c4a2, 0.12em 0 #59c4a2, -0.12em 0 #59c4a2, 0.15em 0 #59c4a2, -0.15em 0 #59c4a2;
     }
 }
 
@@ -345,7 +359,7 @@ div.table-wrapper {
 }
 
 .sans {
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+    font-family: "Moderat", sans-serif;
     letter-spacing: .03em;
 }
 
