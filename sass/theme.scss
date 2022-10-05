@@ -7,7 +7,7 @@ $padding: 8px;
 
 body {
     font-family: $font;
-    font-weight: normal | bold;
+    font-weight: 400;
     background: $blue_light;
     color: $black_light;
 }
@@ -73,57 +73,72 @@ li::marker {
 }
 
 ul ul {
-    padding-left: 1em;
+    padding-left: 1rem;
 }
 
-a {
-    font-size: none;
-    font-weight: 600;
-    color: $black_light;
+a:link {
     text-decoration: underline;
     text-decoration-color: $orange;
     text-underline-offset: 3px;
+    color: $black_light;
+}
+
+a:visited {
+    text-decoration: underline;
+    text-decoration-color: $orange;
+    color: $black_light;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: $orange;
+}
+
+a:active {
+    text-decoration: underline;
+    color: $orange;
 }
 
 h1 {
-    font-size: 22px;
+    font-size: 1rem;
+    text-decoration: none;
     text-transform: uppercase;
     font-family: "HelveticaNeueLTStd-BdEx";
     margin: 5px 0;
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 1rem;
     text-transform: uppercase;
     font-family: "HelveticaNeueLTStd-BdEx";
 }
 
 h3 {
-    font-size: 20px;
+    font-size: 1rem;
     text-transform: uppercase;
     font-family: "HelveticaNeueLTStd-BdEx";
 }
 
 h4 {
-    font-size: 16px;
+    font-size: 1rem;
     text-transform: uppercase;
     font-weight: bold;
 }
 
 h5 {
-    font-size: 14px;
+    font-size: 1rem;
     text-transform: uppercase;
     font-weight: bold;
 }
 
 h6 {
-    font-size: 12px;
+    font-size: 1rem;
     font-weight: bold;
 }
 
 pre {
-    padding: 1em;
-    margin: 1em;
+    padding: 1rem;
+    margin: 1rem;
     overflow-x: auto;
 }
 
@@ -137,8 +152,9 @@ p > code {
 }
 
 .logo {
-    font-size: 1.1rem;
+    font-size: 1.4rem;
     font-family: "HelveticaNeueLTStd-BdEx";
+    color: $black_light;
 }
 
 .date {
@@ -147,9 +163,9 @@ p > code {
 }
 
 .border {
-    color: $gray_dark;
+    color: $orange;
     margin: 8px 0 8px 0;
-    border-top: 2px dashed;
+    border-top: 2px solid;
 }
 
 .notfound {
@@ -170,8 +186,8 @@ p > code {
 
 @media (max-width: 600px) {
     .content {
-        margin-left: 1em;
-        margin-right: 1em;
+        margin-left: 1rem;
+        margin-right: 1rem;
         width: auto;
         max-width: 600px;
         min-width: 600px;
