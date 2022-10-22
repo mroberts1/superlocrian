@@ -1,14 +1,15 @@
 @import "colors";
 @import "fonts";
 
-$font: "Helvetica Neue LT Std 43 Light Extended", sans-serif;
-$font-mono:  "Iosevka", monospace;
+$font: 'UniversNextPro-Regular', sans-serif;
+$font-mono:  'Iosevka';
 $padding: 8px;
 
 body {
-    font: 95% $font;
-    background: $alice_blue;
-    color: $black;
+    font-family: $font;
+    font-weight: 400;
+    background: $blue_light;
+    color: $black_light;
 }
 
 body {
@@ -35,10 +36,10 @@ main {
 
 p {
     text-align: left;
-    color: $black;
-    line-height: 1.5em;
-    text-align: justify;
-    text-justify: inter-word;
+    color: $black_light;
+    line-height: 28px;
+    /*text-align: justify;
+    text-justify: inter-word;*/
 }
 
 footer {
@@ -71,50 +72,76 @@ li::marker {
     color: $green;
 }
 
-ul ul {
-    padding-left: 1em;
+/*ul ul {
+    padding-left: 1rem;
+}
+*/
+a:link {
+    text-decoration: none;
+    text-decoration-color: $orange;
+    text-underline-offset: 3px;
+    color: $black_light;
 }
 
-a {
-    font-size: none;
-    color: darkslateblue;
+a:visited {
     text-decoration: none;
+    text-decoration-color: $orange;
+    color: $black_light;
+}
+
+a:hover {
+    text-decoration: none;
+    color: $orange;
+}
+
+a:active {
+    text-decoration: none;
+    color: $orange;
 }
 
 h1 {
-    font-size: 22px;
-    font-family: "HelveticaNeueLTStd-BdEx";
+    font-size: 28px;
+    line-height: 34px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: "UniversNextPro-BoldExt";
     margin: 5px 0;
 }
 
 h2 {
-    font-size: 20px;
-    font-family: "HelveticaNeueLTStd-BdEx";
+    font-size: 16px;
+    line-height: 22px;
+    text-transform: uppercase;
+    font-family: "UniversNextPro-BoldExt";
 }
 
 h3 {
-    font-size: 18px;
-    font-family: "HelveticaNeueLTStd-BdEx";
+    font-size: 16px;
+    text-transform: uppercase;
+    line-height: 22px;
+    font-family: "UniversNextPro-BoldExt";
 }
 
 h4 {
-    font-size: 16px;
+    font-size: 1rem;
+    text-transform: uppercase;
     font-weight: bold;
 }
 
 h5 {
-    font-size: 14px;
+    font-size: 1rem;
+    text-transform: uppercase;
     font-weight: bold;
 }
 
 h6 {
-    font-size: 12px;
+    font-size: 1rem;
     font-weight: bold;
 }
 
 pre {
-    padding: 1em;
-    margin: 1em;
+    padding: 1rem;
+    margin: 1rem;
     overflow-x: auto;
 }
 
@@ -124,23 +151,25 @@ code {
 
 p > code {
     font-weight: bold;
-    color: $gray;
+    color: $green;
 }
 
 .logo {
-    font-size: 1rem;
-    font-family: "HelveticaNeueLTStd-BdEx";
+    font-size: 28px;
+    line-height: 34px;
+    font-family: "UniversNextPro-BoldExt";
+    color: $black_light;
 }
 
 .date {
     color: $gray_light;
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .border {
-    color: $gray_dark;
+    color: $orange;
     margin: 8px 0 8px 0;
-    border-top: 2px dashed;
+    border-top: 2px solid;
 }
 
 .notfound {
@@ -156,16 +185,16 @@ p > code {
 
 .content {
     margin: 0 auto;
-    width: 550px;
+    width: 800px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 800px) {
     .content {
-        margin-left: 1em;
-        margin-right: 1em;
+        margin-left: 1rem;
+        margin-right: 1rem;
         width: auto;
-        max-width: 500px;
-        min-width: 500px;
+        max-width: 800px;
+        min-width: 800px;
     }
 }
 

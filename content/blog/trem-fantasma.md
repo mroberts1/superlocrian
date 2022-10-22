@@ -1,10 +1,8 @@
 +++
-title = "Trem Fantasma"
+title = "Trem Fantasma: Ghosts of Brazilian Music"
 date = 2021-07-21
 +++
-
-### Ghosts of Brazilian music
-
+<br />
 <iframe width="500" height="280" src="https://www.youtube.com/embed/kDpkviXa0cw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 >["Trem Fantasma"](https://www.youtube.com/watch?v=kDpkviXa0cw) {ghost train} is a song by <b>Os Mutantes</b>, from their 1968 début album.

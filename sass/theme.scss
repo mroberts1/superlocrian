@@ -1,7 +1,7 @@
 @import "colors";
 @import "fonts";
 
-$font: 'Helvetica Neue LT Std 43 Light Extended';
+$font: 'UniversNextPro-Regular', sans-serif;
 $font-mono:  'Iosevka';
 $padding: 8px;
 
@@ -37,7 +37,7 @@ main {
 p {
     text-align: left;
     color: $black_light;
-    line-height: 1.5em;
+    line-height: 28px;
     /*text-align: justify;
     text-justify: inter-word;*/
 }
@@ -100,23 +100,27 @@ a:active {
 }
 
 h1 {
-    font-size: 1rem;
+    font-size: 28px;
+    line-height: 34px;
     text-decoration: none;
     text-transform: uppercase;
-    font-family: "HelveticaNeueLTStd-BdEx";
+    font-weight: bold;
+    font-family: "UniversNextPro-BoldExt";
     margin: 5px 0;
 }
 
 h2 {
-    font-size: 1rem;
-    text-transform: uppercase;
-    font-family: "HelveticaNeueLTStd-BdEx";
+    font-size: 24px;
+    line-height: 30px;
+    text-transform: none;
+    font-family: "UniversNextPro-BoldExt";
 }
 
 h3 {
-    font-size: 1rem;
+    font-size: 20px;
     text-transform: uppercase;
-    font-family: "HelveticaNeueLTStd-BdEx";
+    line-height: 26px;
+    font-family: "UniversNextPro-BoldExt";
 }
 
 h4 {
@@ -152,8 +156,9 @@ p > code {
 }
 
 .logo {
-    font-size: 1.4rem;
-    font-family: "HelveticaNeueLTStd-BdEx";
+    font-size: 28px;
+    line-height: 34px;
+    font-family: "UniversNextPro-BoldExt";
     color: $black_light;
 }
 

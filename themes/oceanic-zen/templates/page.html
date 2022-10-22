@@ -9,8 +9,9 @@
             {{ page.date | date(format="%d %b %Y") }}
         </time>
     </div>
+
     <div itemprop="articleBody">
-        {{ page.content | safe }}
+    <br />    {{ page.content | safe }}
     </div>
 </article>
 {% endblock main %}
