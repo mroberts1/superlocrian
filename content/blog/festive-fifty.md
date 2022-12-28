@@ -3,7 +3,7 @@ title = "Festive Fifty 2022"
 date = 2022-12-18
 +++
 
-In honor of John Peel's end-of-year tradition of the Festive Fifty, my top 5 tracks of 2022.
+In honor of John Peel's end-of-year tradition of the Festive Fifty, my top 5 songs of 2022.
 
 ***
 
