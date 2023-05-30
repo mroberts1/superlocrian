@@ -12,5 +12,5 @@ It includes no less than five altered tones: ♭9, ♯9, ♭5, ♯5, and ♭7, s
 
 The Super Locrian differs from the Locrian mode in that in addition to the existing altered scale tones, it includes a ♭4, i.e. whereas in C Locrian mode the fourth is F, in C Super Locrian this is flatted to E (F♭). In other words, other than the tonic, every tone of the major scale is altered.
 
-Interestingly - albeit confusingly, at least to music theory novices like me - the Super Locrian is identical to the seventh mode of the Melodic Minor scale. More [here](https://www.pianoscales.org/super-locrian.html).
+Interestingly––albeit confusingly, at least to music theory novices like me––the Super Locrian is identical to the seventh mode of the Melodic Minor scale. More <a href="https://www.pianoscales.org/super-locrian.html"><span style="text-decoration:underline">here</span></a>.
 
