@@ -1,5 +1,5 @@
 +++
-title = New Corner Club
+title = "New Corner Club"
 date = 2023-05-29
 +++
 
