@@ -35,5 +35,3 @@ date = 2023-05-29
 
 <!-- Azeitona -->
 <p><iframe width="500" height="280" src="https://www.youtube.com/embed/doFYKLwIlik" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-<hr />
