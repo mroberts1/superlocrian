@@ -9,7 +9,7 @@ date = 2023-05-29
 
 <p>Salmaso is one of the newer generation of Brazil's many brilliant  female vocalists; concidentally, last year she released an album of covers of Milton Nascimento songs, <b>Milton</b> (2022), with pianist André Mehmari.</p>
 
-<p><b>Cumplicidade</b> is a great record, and fortunately for us videos of the studio sessions for half of the songs on the album were posted on YouTube. Here they are as a playlist, reordered according to my own preferences. We start with Toninho’s song “Raul,” and finish with their cover of the classic Hermeto Pascoal song “Azeitona.”</p> 
+<p><b>Cumplicidade</b> is a great record, and fortunately for us videos of the studio sessions for half of the songs on the album were posted on YouTube. Here they are as a playlist, reordered according to my own preferences. We start with Toninho’s song “Raul,” and finish up with their cover of the classic Hermeto Pascoal song “Azeitona.” You can listen to them in any order, of course, but I would start with “Raul.”</p> 
 
 <p>The connections leading us back to the <b>Clube Da Esquina</b> group––directly in the case of Toninho Horta––aren't coincidental; Brazil's  current generation of musicians are hyper-aware of the extraordinarily rich cultural heritage that they come out of, and their contemporary music is in constant dialogue with it. 
     
@@ -23,6 +23,12 @@ date = 2023-05-29
 
 <!-- Desilusão -->
 <p><iframe width="500" height="280" src="https://www.youtube.com/embed/UybslBr-eB8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<!-- Cumplicidade -->
+<p><iframe width="500" height="280" src="https://www.youtube.com/embed/k2__7ZMzKL4" title="Single - Cumplicidade : Michael Pipoquinha e Pedro Martins" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<!-- A Vida Tem Deisas Coisas -->
+<p><iframe width="500" height="280" src="https://www.youtube.com/embed/YWk8gNlg04g?list=RDk2__7ZMzKL4" title="Single - A Vida Tem Dessas Coisas: Michael Pipoquinha e Pedro Martins" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <!-- Mr. Herbie -->
 <p><iframe width="500" height="280" src="https://www.youtube.com/embed/Ay0znos0C7E" title="Single - Mr Herbie: Michael Pipoquinha e Pedro Martins ft.Toninho Horta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
