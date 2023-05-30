@@ -13,6 +13,8 @@ date = 2023-05-29
     
 <p><b>Cumplicidade</b> is a great record, and to make it even better,  videos of the studio session for the whole album were posted on YouTube. Here they are as a playlist, which includes Toninho’s song “Raul” and the classic Hermeto Pascoal song “Azeitona.” You can listen to them in any order, of course; my favorite is probably “Raul,” but it’s tough to choose. If you prefer to just watch everything on YouTube, I posted the  <a href="https://www.youtube.com/playlist?list=PLKJL7wxYKW3P49SSgWIY8hKQTDpdR6X_v"><span style="text-decoration:underline">playlist</span></a> there too.</p> 
 
+<p>Quite apart from the music, I love it that Michael and Pedro are playing in their slippers.</p> 
+
 <p>I'll have more to say on the group that I call the <b>Clube Da Esquina Novo</b> [New Corner Club] in an upcoming post; for now, enjoy the complicity. :)</p>
 
 <p>1. <b>Azeitona</b> (5:07)</p>
