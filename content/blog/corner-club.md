@@ -11,7 +11,7 @@ date = 2023-05-29
 
 <p>The connections leading us back to the <b>Clube Da Esquina</b> group––directly in the case of Toninho Horta––aren’t coincidental; Brazil’s current generation of musicians are hyper-aware of the extraordinarily rich cultural heritage that they come out of, and their contemporary music is in constant dialogue with it. 
     
-<p><b>Cumplicidade</b> is a great record, and to make it even better,  videos of the studio session for the whole album were posted on YouTube. Here they are as a playlist, which includes Toninho’s song “Raul” and the classic Hermeto Pascoal song “Azeitona.” You can listen to them in any order, of course; my favorite is probably “Raul,” but it’s tough to choose.</p> 
+<p><b>Cumplicidade</b> is a great record, and to make it even better,  videos of the studio session for the whole album were posted on YouTube. Here they are as a playlist, which includes Toninho’s song “Raul” and the classic Hermeto Pascoal song “Azeitona.” You can listen to them in any order, of course; my favorite is probably “Raul,” but it’s tough to choose. If you prefer to just watch everything on YouTube, I posted the  <a href="https://www.youtube.com/playlist?list=PLKJL7wxYKW3P49SSgWIY8hKQTDpdR6X_v"><span style="text-decoration:underline">playlist</span></a> there too.</p> 
 
 <p>I'll have more to say on the group that I call the <b>Clube Da Esquina Novo</b> [New Corner Club] in an upcoming post; for now, enjoy the complicity. :)</p>
 

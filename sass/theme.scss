@@ -91,7 +91,8 @@ a:visited {
 
 a:hover {
     text-decoration: none;
-    color: $orange;
+    text-decoration-color: $orange;
+    text-color: $orange;
 }
 
 a:active {
