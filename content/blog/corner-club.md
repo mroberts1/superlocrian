@@ -5,17 +5,17 @@ date = 2023-05-29
 
 <p>In 2020 bassist Michael Pipoquinha and guitarist Pedro Martins released an album of duets called <b>Cumplicidade</b> [Complicity], featuring guest cameos by 71-year-old jazz guitarist Toninho Horta and singer Mônica Salmaso. 
     
-<p>Back in the 1970s, Horta played on both of Milton Nascimento and Lô Borges’s albums, <b>Clube Da Esquina</b> (1972) and <b>Clube Da Esquina 2</b> (1978), widely regarded as two of the finest releases in the history of Brazilian popular music.</p>
+<p>Back in the 1970s, Horta played on both of Milton Nascimento and Lô Borges’s albums, <b>Clube da Esquina</b> (1972) and <b>Clube da Esquina 2</b> (1978), widely regarded as two of the finest releases in the history of Brazilian popular music.</p>
 
 <p>Salmaso is one of the newer generation of Brazil's many brilliant  female vocalists; last year she released an album of covers of Milton Nascimento songs, <b>Milton</b> (2022), with pianist André Mehmari.</p>
 
-<p>The connections leading us back to the <b>Clube Da Esquina</b> group––directly in the case of Toninho Horta––aren’t coincidental; Brazil’s current generation of musicians are hyper-aware of the extraordinarily rich cultural heritage that they come out of, and their contemporary music is in constant dialogue with it. 
+<p>The connections leading us back to the <b>Clube da Esquina</b> group––directly in the case of Toninho Horta––aren’t coincidental; Brazil’s current generation of musicians are hyper-aware of the extraordinarily rich cultural heritage that they come out of, and their contemporary music is in constant dialogue with it. 
     
-<p><b>Cumplicidade</b> is a great record, but what's even better is that videos of the whole studio recording session are on YouTube, so we get to watch two (actually four) virtuoso musicians at the top of their game. I love it that Michael and Pedro are playing in studio slippers––it seems to capture the cosy, intimate vibe of the whole session.</p> 
+<p><b>Cumplicidade</b> is a great record, but what’s even better is that videos of the whole studio recording session are on YouTube, so we get to watch two (actually four) virtuoso musicians at the top of their game. I love it that Michael and Pedro are playing in studio slippers––it seems to capture the cosy, intimate vibe of the whole session.</p> 
     
 <p>I've  put together the <a href="https://www.youtube.com/playlist?list=PLKJL7wxYKW3P49SSgWIY8hKQTDpdR6X_v"><span style="text-decoration:underline">playlist</span></a> and you can watch it all over there, but here are my favorite cuts from the session: the two songs with Toninho, the song with Mônica Salmaso, and their cover of Hermeto Pascoal’s song “Azeitona.”</p>
     
-<p>I'll have more to say on the group that I call the <b>Clube Da Esquina Novo</b> [New Corner Club] in an upcoming post; for now, enjoy the complicity. :)</p>
+<p>I'll have more to say on the group that I call the <b>Clube da Esquina Novo</b> [New Corner Club] in an upcoming post; for now, enjoy the complicity. :)</p>
 
 <hr>
 <p><b>Raul</b> (feat. Toninho Horta) (4:58)</p>
