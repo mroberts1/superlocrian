@@ -1,0 +1,23 @@
+---
+title: "    "
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  grid-columns: 3
+  fields: [image, title, date]
+  field-display-names:
+    title: "    "
+    date: "    "
+  field-links: [image, title]
+  image-align: left
+categories: false
+sort-ui: false
+filter-ui: false
+table-hover: false
+image-lazy-loading: false
+title-block-banner: false
+---
+
+# superlocrian
+
