@@ -4,7 +4,7 @@ date: "2022-02-25"
 image: "sen-morimoto.jpg"
 ---
 
-{{< video https://www.youtu.be/Fi610jP-MpY >}}
+{{< video https://youtu.be/Fi610jP-MpY >}}
 
 I’ve been a fan of Sen Morimoto since I first saw him opening the 88rising show in Boston in 2018. Other than a few black guys, I was what seemed like the only non-Asian in the entire theater. At the start of the show some lanky Japanese-American kid with a ponytail comes out with a boombox and a saxophone and does some numbers of him rapping and playing over beats and samples from the box. He was well received, but everybody was there for the 88rising stars like Chinese hip-hop crew Higher Bros., Japanese-American crooner Joji, and Indonesian rap legend Rich Brian. Not long after, people were dancing in the aisles to the other acts and holding up their collective iPhone flashlights the way people used to do with cigarette lighters when Led Zeppelin played “Stairway to Heaven” several decades before they were born.
 
@@ -28,13 +28,13 @@ Beats are the bedrock of any popular music today, and Sen knows how to make beat
 
 [Kaina](https://www.kaina.live/) is just flat-out awesome. Yes, I know that there are a lot of great female vocalists out there - I’ve been a fan of Yukimi Nagano of Swedish band [Little Dragon](http://little-dragon.net/) for years - but Kaina’s vocals in the video of “Picture of a Painting” give me goosebumps. Oh and speaking of goosebumps:
 
-{{< video https://www.youtu.be/66wKTr9NPqY >}}
+{{< video https://youtu.be/66wKTr9NPqY >}}
 
 Sidenote: this video shows that Sen also knows how to write a great ballad.
 
 Kaina has an album of her own on Sooper, [_Next To The Sun_](https://kainamusic.bandcamp.com/album/next-to-the-sun) (2019), and released her second album, [_It Was A Home_](https://kainamusic.bandcamp.com/album/it-was-a-home), on 4 March 2022.
 
-{{< video https://www.youtu.be/nrlQRt-CgaY >}}
+{{< video https://youtu.be/nrlQRt-CgaY >}}
 
 ### The Rhodes
 
@@ -44,6 +44,6 @@ You probably noticed the Nord Electro in the video above, the go-to keyboard tha
 
 Most of all with Sen, though, it's about that space jazz Vibe, which somehow manages to be both laid back and emotional at the same time. It's a tricky balancing act to pull off, but Sen is quite a musical tightrope walker. You won't find a better example of this space jazz vibe than the appropriately-titled  "Jupiter".
 
-{{< video https://www.youtu.be/H-nZ98eSKhc >}}
+{{< video https://youtu.be/H-nZ98eSKhc >}}
 
 ***
