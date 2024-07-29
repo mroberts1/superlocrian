@@ -22,7 +22,7 @@ format:
       light: ember.scss
       dark: slate
     css: custom.scss
-page-layout: article
+image-width: 200px
 linestretch: 1.2
 fontsize: 0.9em
 smooth-scroll: true

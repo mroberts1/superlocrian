@@ -11,6 +11,7 @@ listing:
     date: "    "
   field-links: [image, title]
   image-align: left
+page-layout: article
 categories: false
 sort-ui: false
 filter-ui: false

@@ -1,12 +1,11 @@
 date-format: short
 grid:
-  sidebar-width: 300px
+  sidebar-width: 350px
   body-width: 500px
-  margin-width: 300px
+  margin-width: 350px
   gutter-width: 2em
-# freeze computational output
-# (see https://quarto.org/docs/projects/code-execution.html#freeze)
-freeze: true
 
 # Enable banner style title blocks
 title-block-banner: false
+
+freeze: auto
