@@ -1,5 +1,8 @@
 ---
 title: "    "
+format: 
+  html:
+    page-layout: full
 listing:
   contents: posts
   sort: "date desc"
@@ -11,7 +14,6 @@ listing:
     date: "    "
   field-links: [image, title]
   image-align: left
-page-layout: article
 categories: false
 sort-ui: false
 filter-ui: false
