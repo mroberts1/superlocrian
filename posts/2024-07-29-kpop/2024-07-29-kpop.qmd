@@ -1,0 +1,111 @@
+---
+title: 'Against "K-pop"'
+subtitle: "For Korean popular music"
+date: "2024-08-02"
+image: "hyukoh-gold.jpg"
+---
+
+> <small>For David Yuan, and a few friends :)</small>
+
+## Preamble
+
+I've been resisting writing something about K-pop for quite a few years now. After all, what do **I** know about K-pop? I don't even **like** K-pop - if by K-pop you mean what "K-pop" is generally understood to be, internationally.
+
+But even though I dislike most "K-pop," I do like certain Korean **musical artists**, **bands**, and **music scenes** a lot; and I think the scale of the global understanding of "K-pop" is so great that it's really time I wrote something.
+
+If you're reading this because you're "a huge fan of K-pop," then, sorry to disappoint you: it's not going to talk about BTS, Blackpink, or Red Velvet. Instead, I try to expand the one-dimensional understanding of "K-pop" beyond the endless parade of synchronized boy and girl bands, by sharing some of what I know about the incredibly diverse music scenes in Korea today, but that have been overshadowed by the global "K-pop"  industry. Because of the very partial nature of the latter, however, whenever I refer to it as "K-pop" in quotation marks, to differentiate it from the proliferating landscape of music scenes in Korea today.
+
+## "K-pop" is not "Korean popular music"
+
+What is "K-pop"?
+
+It's not what you think it is.
+
+Internationally, it's a multi-billion dollar global industry with fandoms stretching around the globe from Santiago to Sydney. Just a few weeks ago, K-pop band Seventeen played Glastonbury, the legendary half-century-old music festival in the UK, for the first time.[Jon Dunbar, "[First Koreans to play Glastonbury](https://www.koreatimes.co.kr/www/opinion/2024/07/137_378600.html)" (*The Korea Times*, 15 July 2024)]{.aside}. (For the record, I'd never heard of Seventeen, which tells you how much I care about "K-pop".) This kind of "first K-pop band to..." has itself become a global cliché--Epik High at Coachella (2016), Blackpink as the first *female* K-pop group at Coachella (2019), and on and on.
+
+In response to the international ubiquity of K-pop boy and girl bands, the past few years have seen a rapid **cultural institutionalization** of "K-pop", in the form of museum exhibitions, as part of the larger international craze for the Hallyu or "Korean Wave".[See for example the international exhibition "[Hallyu! The Wave](https://www.vam.ac.uk/articles/hallyu-the-korean-wave-about-the-exhibition)" held at the Victoria and Albert Museum in London from 24 Sepember 2022-25 June 2023, and subsequently at the [Boston Museum of Fine Arts](https://www.mfa.org/exhibition/hallyu-the-korean-wave) from 24 March to 28 July 2024.]{.aside} K-pop fandom in itself has been quickly reified as a phenomenon of global culture in its own right, distinct from the object of the fandom itself.[<br>The V&A website includes a section specifically on "[K-pop fandom](https://www.vam.ac.uk/articles/k-pop-fandom)."]{.aside} The "K-pop" industry today is arguably as much driven by such institutionalization, with the line between "top-down" and "organic" fan communities becoming more or less non-existent.
+
+The rapid cultural blitzkrieg of "K-pop" and the "Hallyu" more generally has also taken place at an academic level: a simple search for "K-pop" on Academia.edu returns over a million sources.
+
+:::{.column-margin}
+<br>
+
+![](academia.png){width=200}
+:::
+
+The question of why "K-pop" and its global fandom have proved to be such a lucrative commodity of the global culture industry is a larger question that I'm sure has been addressed somewhere in the vast academic literature on the subject that has emerged over the past five years or so. "K-pop" fandom is an exhausting black hole that I'm simply not interested in exploring, since to do so would be fall into the exact same trap that this post is supposed to be trying to escape from. So if it's really "K-pop" music and fandom that you're interested in, I can only refer you to the million points of light on Academia.edu.
+
+## Popular music scenes in Korea
+
+In trying to get a broader understanding of K-pop, it's useful to draw an initial distinction between what's understood as "K-pop" internationally and domestically. Within Korea itself, "K-pop" - in the form of boy and girl group-led, synchronized industrial dance pop - enjoys even greater mass popularity than it does internationally. Again, there is much to be said on "K-pop" *within* Korea, but again, the Korean music industry itself has been discussed endlessly and this discussion is not driven solely by mass-cultural success - in fact this is precisely the kind of simplistic yardstick that I am trying to break free form. What I find much more interesting are the music scenes that tend to be overlooked - certainly outside Korea - because the discussion of Korean popular music is so entirely monopolized by a mass-cultural logic that assumes that the more popular and commercially successful something is, the more valuable and important it is. This post explicitly refuses this logic as a criterion of aesthetic and cultural value.
+
+My first proposition, then, is that both domestically and internationally, "K-pop" (as defined thus far) accounts for only the dominant, most mainstream style within the larger landscape of Korean popular music. Within that landscape, I'm not going to talk about older historical forms of Korean popular music such as *trot*, for example. This is simply because I don't know enough about them. Nor, for the same reason, do I have much to say about the premodern forms of Korean popular music collectively known as *gugak*.
+
+Korean popular music today takes many different forms, often in the form of localized transformations of globally circulating styles. "K-pop" itself, of course, can be seen as an example of this, originating in Black U.S. dance musics from Motown soul to R'n'B to hip hop, especially the elaborately choreographed 1980s dance music of Michael and Janet Jackson. But that is only one example. In what follows I try to tease out some of these threads.
+
+## Transnational Connections (88rising)
+
+//Dumbfoundead and Tokimonsta
+{{< video https://youtu.be/UTEaiGkBIyU >}}
+
+Keith Ape, "It G Ma"
+{{< video https://youtu.be/lLpWs3AAMsA >}}
+
+## Neosoul
+
+Nabi
+Didi
+
+
+## Post-rock, mathrock
+
+Cotoba, Free will
+
+{{< video https://youtu.be/Gty6W3YO_Zs >}
+
+Hyukoh
+
+## Post-Rock
+
+Jambinai?
+
+## EDM
+
+Tokimonsta, Bibimbap?
+
+Yaeji, Easy Breezy
+
+{{< video https://youtu.be/XmKUak37jLU >}}
+
+Peggy Gou, Lobster Telephone
+
+{{< video https://youtu.be/bLsDLxISc5w >}}
+
+Y2K92
+
+## The Longing of the Yawning Divide
+
+:::{.column-margin}
+
+{{< video https://youtu.be/sZinysEUElA> }}
+
+:::
+
+
+Lim Kim, Yellow https://youtu.be/QK3Q6igbvhA
+SoYoON
+Hyukoh, Gold
+Cotoba
+BiBi Nabi https://youtu.be/hAopzWKVdX4
+DD https://youtu.be/rz_6kJULbqU
+Yaeji
+Peggy Gou
+Y2K92
+SU:M, "5:16 In The Afternoon"  https://youtu.be/F4EDzOkjRns
+
+
+
+
+
+
+

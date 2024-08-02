@@ -27,11 +27,10 @@ format:
       body-width: 500px
       margin-width: 350px
       gutter-width: 2em
-image-width: 200px
-linestretch: 1.2
-fontsize: 0.9em
+linestretch: 1.5
 smooth-scroll: true
 link-external-newwindow: true
+lightbox: auto
 execute:
   freeze: auto
 

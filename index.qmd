@@ -2,8 +2,7 @@
 title: "    "
 format: 
   html:
-    grid: 
-      body-width: 800px
+    page-layout: full
 listing:
   contents: posts
   sort: "date desc"
