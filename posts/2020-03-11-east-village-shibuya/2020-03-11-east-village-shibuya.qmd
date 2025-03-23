@@ -19,9 +19,9 @@ In 1995, a tiny record store opened on West 4th Street in Manhattan, literally a
 
 ::: {.column-margin}
 
-On the history of Other Music, see [*Other Music---A Documentary*](https://www.othermusicdocumentary.com/) (Puloma Hatcher and Rob Hatch Miller, 2020).<br><br>
+On the history of Other Music, see *Other Music---A Documentary by Puloma Hatcher and Rob Hatch-Miller* (2020).<br><br>
 
-{{< video https://vimeo.com/ondemand/othermusic/394019069 >}}
+[![](other-music-poster.jpg){width=100%}](https://www.othermusicdocumentary.com/)
 
 :::
 
