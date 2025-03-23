@@ -12,14 +12,14 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar {
   .nav-link {
-    color: black;
+    color: #000;
     text-decoration: underline;
     text-decoration-color: #f99157;
     text-decoration-thickness: 3px;
     text-underline-offset: 3px;
     
     &:visited {
-      color: black;
+      color: #000;
       text-decoration: underline;
       text-decoration-color: #f99157;
       text-decoration-thickness: 3px;
@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6 {
     }
     
     &:hover {
-      color: white;
+      color: #FFF;
       //text-decoration: underline;
       background-color: #f99157;
     }
