@@ -17,7 +17,7 @@ website:
         href: https://twitter.com/mroberts_vma
 format:
   html:
-    backgroundcolor: "#f0f8ff"
+    backgroundcolor: "#EFEDE5"
     theme: 
       light: ember.scss
       dark: slate
@@ -29,6 +29,7 @@ format:
       gutter-width: 2em
 linestretch: 1.5
 smooth-scroll: true
+linkcolor: black
 link-external-newwindow: true
 lightbox: auto
 execute:

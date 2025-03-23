@@ -49,7 +49,7 @@ hr {
 
 p, li, {
   font-family: $font-family-sans-serif;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 h1 {
@@ -57,7 +57,7 @@ h1 {
      text-transform:uppercase;
      color:#000000;
      font-family: 'HelveticaNeueLTStd-BdEx', sans-serif;
-     font-size: 20px;
+     font-size: 22px;
      font-weight: 600;
      letter-spacing: 2px;
 }
@@ -67,34 +67,9 @@ h2, h3, h4, h5, h6 {
      text-transform:uppercase;
      color:#000000;
      font-family: 'HelveticaNeueLTStd-BdEx', sans-serif;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 600;
     letter-spacing: 1px;
-}
-
-
-a:link {
-    color: black;
-    text-decoration: none;
-}
-
-a:visited {
-    color: black;
-    text-decoration: none;
-}
-
-a:hover {
-    color: black;
-    text-decoration: underline;
-    text-decoration-color: #f99157;
-    text-decoration-thickness: 3px;
-    text-decordation-offset: 3px;
-    //background-color: #f99157;
-}
-
-a:active {
-    color: black;
-    text-decoration: none;
 }
 
 table, th, td { 
@@ -115,4 +90,30 @@ h1 > a:hover {
     text-decoration-thickness: 3px;
     text-decordation-offset: 3px;
     //background-color: #f99157;
+}
+
+a:link {
+  color: black;
+  text-decoration: true;
+  text-decoration-color: #f99157;
+  text-decoration-thickness: 3px;
+  text-underline-offset: 3px;
+}
+a:visited {
+    color: black;
+    text-decoration: true;
+    text-decoration-color: #f99157;
+    text-decoration-thickness: 3px;
+    text-underline-offset: 3px;
+}
+a:hover {
+  color: white;
+  text-decoration: underline;
+  background-color: #f99157;
+  //text-decoration-color: #235440;
+  //text-decoration-thickness: 3px;
+  //text-underline-offset: 3px;
+}
+a:active {
+  text-decoration: none;
 }
