@@ -9,3 +9,35 @@ $body-color:            $gray-700 !default
 h1, h2, h3, h4, h5, h6 {
   text-shadow: -1px -1px 0 rgba(0, 0, 0, .3);
 }
+
+.navbar {
+  .nav-link {
+    color: #000;
+    text-decoration: underline;
+    text-decoration-color: #f99157;
+    text-decoration-thickness: 3px;
+    text-underline-offset: 3px;
+    
+    &:visited {
+      color: #000;
+      text-decoration: underline;
+      text-decoration-color: #f99157;
+      text-decoration-thickness: 3px;
+      text-underline-offset: 3px;
+    }
+    
+    &:hover {
+      color: #FFF;
+      //text-decoration: underline;
+      background-color: #f99157;
+    }
+    
+    &.active {
+      color: black;
+      text-decoration: underline;
+      text-decoration-color: #f99157;
+      text-decoration-thickness: 3px;
+      text-underline-offset: 3px;
+    }
+  }
+}
